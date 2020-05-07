@@ -1,4 +1,4 @@
 # fnsku-admin <br>
 1.Angular <br>
-Admin <br>
-Test Git Pull,  
+2.Admin <br>
+3.Test Git Pull,  
